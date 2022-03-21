@@ -1,3 +1,5 @@
+# variable = a container for a value. Behaves as the value it contains.
+
 age = 23 # Int
 age = 30 # Int 
 price = 19.95 # Float
